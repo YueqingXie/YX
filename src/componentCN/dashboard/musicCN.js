@@ -97,14 +97,14 @@ class musicCN extends Component {
             <div className="row">
                 <div className="col s12 m6 l3">
                     {/* <div className="video" id="video56">
-                        <video controls src="../video_music/56.mp4" width="200" height="280"></video>
+                        <video controls src="../video_music/64.mp4" width="200" height="280"></video>
                     </div> */}
                 </div>
 
                 <div className="col s12 m6 l3">
-                    {/* <div className="video" id="video55">
-                        <video controls src="../video_music/55.mp4" width="200" height="280"></video>
-                    </div> */}
+                    {<div className="video" id="video55">
+                        <video controls src="../video_music/63_LastChristmas.mp4" width="200" height="280"></video>
+                    </div>}
                 </div>
 
                 <div className="col s12 m6 l3">
