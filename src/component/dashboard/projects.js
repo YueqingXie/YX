@@ -72,6 +72,18 @@ class projects extends Component {
                 <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
+                            <p>YX-P2 (Virtual Chinese Restaurant): </p>                            
+                            <p className="grey-text">2020/12/30 - 2020/12/31</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp2.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp2.herokuapp.com/</a>              
+                        </div>
+                    </div>
+                </div>
+        
+                <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
                             <p>YX-P1 (Virtual Tour Company): </p>                            
                             <p className="grey-text">2020/12/05 - 2020/12/06</p>
                         </div>
@@ -84,17 +96,7 @@ class projects extends Component {
                     </div>
                 </div>
         
-                <div className="YX-Ps">
-                    <div className="row">
-                        <div className="col s12 m6 l6">
-                            <p>YX-P2 (Virtual Chinese Restaurant): </p>                            
-                            <p className="grey-text">2020/12/30 - 2020/12/31</p>
-                        </div>
-                        <div className="col s12 m6 l6">
-                            <a href="https://yxp2.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp2.herokuapp.com/</a>              
-                        </div>
-                    </div>
-                </div>
+                
                 
             </section>
 
