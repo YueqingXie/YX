@@ -70,6 +70,19 @@ class projectsCN extends Component {
             <section className="container section">
                 <h4 className="titleENG center">YX-我的项目</h4>
 
+            
+                <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P2 (虚拟中国餐厅): </p>                            
+                            <p className="grey-text">2020/12/30 - 2020/12/31</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp2.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp2.herokuapp.com/</a>              
+                        </div>
+                    </div>
+                </div>
+        
                 <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
