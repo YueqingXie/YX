@@ -77,7 +77,10 @@ class projectsCN extends Component {
                             <p className="grey-text">[React&GraphQL+MongoDB] 2021/01/18 - 2021/01/18</p>
                         </div>
                         <div className="col s12 m6 l6">
-                            <a href="https://yxp3.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp3.netlify.app/</a>              
+                            <a href="https://yxp3.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp3.netlify.app/</a>     
+                             <br/>
+                             <br/>
+                            <a href="https://yx-p3.netlify.app/" target="_blank" rel="noopener noreferrer">https://yx-p3.netlify.app/</a>   
                         </div>
                     </div>
                 </div>
