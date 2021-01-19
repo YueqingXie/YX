@@ -70,12 +70,23 @@ class projectsCN extends Component {
             <section className="container section">
                 <h4 className="titleENG center">YX-我的项目</h4>
 
-            
+              <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P3 (小说 "LiYuan"): </p>                            
+                            <p className="grey-text">[React&GraphQL+MongoDB] 2021/01/18 - 2021/01/18</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp3.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp3.netlify.app/</a>              
+                        </div>
+                    </div>
+                </div>
+        
                 <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
                             <p>YX-P2 (虚拟中国餐厅): </p>                            
-                            <p className="grey-text">2020/12/30 - 2020/12/31</p>
+                            <p className="grey-text">[PHP&MySQL] 2020/12/30 - 2020/12/31</p>
                         </div>
                         <div className="col s12 m6 l6">
                             <a href="https://yxp2.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp2.herokuapp.com/</a>              
@@ -87,7 +98,7 @@ class projectsCN extends Component {
                     <div className="row">
                         <div className="col s12 m6 l6">
                             <p>YX-P1 (虚拟旅游公司): </p>
-                            <p className="grey-text">2020/12/05 - 2020/12/06</p>
+                            <p className="grey-text">[React&Firebase] 2020/12/05 - 2020/12/06</p>
                         </div>
                         <div className="col s12 m6 l6">
                             <a href="https://yx-p1-57ad3.web.app/" target="_blank" rel="noopener noreferrer">https://yx-p1-57ad3.web.app/</a>
