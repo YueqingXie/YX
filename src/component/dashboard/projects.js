@@ -69,7 +69,18 @@ class projects extends Component {
             <section className="container section">
                 <h4 className="titleENG center">YX-Projects</h4>
 
-            
+                <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P34 (VLOG Platform): </p>                            
+                            <p className="grey-text">[Angular] 2021/01/23 - 2021/01/24</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp4.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp4.netlify.app/</a>   
+                        </div>
+                    </div>
+                </div>
+        
                <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
