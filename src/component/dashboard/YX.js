@@ -81,7 +81,7 @@ class YX extends Component {
                         <br/>
                         <div className="YXdetail">
 <p className="YXdetailP"><strong>Full name: </strong>Yueqing Xie</p>
-<p className="YXdetailP"><strong>Education: </strong>University of Ottawa(2020), joint honours in Conputer Science and Mathematics.</p>
+<p className="YXdetailP"><strong>Education: </strong>University of Ottawa(2020), joint honours in Computer Science and Mathematics.</p>
 <p className="YXdetailP"><strong>Born: </strong>January 26, 1998(age 22 years), China</p>
 <p className="YXdetailP"><strong>Height: </strong>168cm (66 inches)</p>
 <p className="YXdetailP"><strong>Weight: </strong>43kg</p>
