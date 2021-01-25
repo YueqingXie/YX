@@ -73,6 +73,18 @@ class projectsCN extends Component {
             <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
+                            <p>YX-P5 (YX 简历): </p>                            
+                            <p className="grey-text">[Bootstrap] 2021/01/24 - 2021/01/25</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp5.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp5.netlify.app/</a>   
+                        </div>
+                    </div>
+                </div>
+        
+            <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
                             <p>YX-P4 (日常视频平台): </p>                            
                             <p className="grey-text">[Angular] 2021/01/23 - 2021/01/24</p>
                         </div>
