@@ -74,7 +74,7 @@ class projects extends Component {
                     <div className="row">
                         <div className="col s12 m6 l6">
                             <p>YX-P6 (BLOG Platform): </p>                            
-                            <p className="grey-text">[Bootstrap] 2021/01/28 - 2021/01/28</p>
+                            <p className="grey-text">[Vue&Firebase] 2021/01/28 - 2021/01/28</p>
                         </div>
                         <div className="col s12 m6 l6">
                             <a href="https://yxp6.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp6.netlify.app/</a>   
