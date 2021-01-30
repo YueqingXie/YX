@@ -71,11 +71,26 @@ class projectsCN extends Component {
                 <h4 className="titleENG center">YX-我的项目</h4>
 
             
+               <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P6 (音乐播放清单): </p>                            
+                            <p className="grey-text">[Vue3&Firebase] 2021/01/30 - 2021/01/30</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yx-project7.web.app" target="_blank" rel="noopener noreferrer">https://yx-project7.web.app</a>  
+                             <br/>
+                             <br/>
+                            <a href="https://yx-project7.firebaseapp.com/" target="_blank" rel="noopener noreferrer">https://yx-project7.firebaseapp.com/</a>    
+                        </div>
+                    </div>
+                </div>
+        
             <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
                             <p>YX-P6 (博客平台): </p>                            
-                            <p className="grey-text">[Vue&Firebase] 2021/01/28 - 2021/01/28</p>
+                            <p className="grey-text">[Vue2&Firebase] 2021/01/28 - 2021/01/28</p>
                         </div>
                         <div className="col s12 m6 l6">
                             <a href="https://yxp6.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp6.netlify.app/</a>   
