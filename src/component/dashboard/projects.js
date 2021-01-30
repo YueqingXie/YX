@@ -73,7 +73,7 @@ class projects extends Component {
                <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
-                            <p>YX-P6 (Music Playlist): </p>                            
+                            <p>YX-P7 (Music Playlist): </p>                            
                             <p className="grey-text">[Vue3&Firebase] 2021/01/30 - 2021/01/30</p>
                         </div>
                         <div className="col s12 m6 l6">
