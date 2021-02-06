@@ -69,7 +69,18 @@ class projects extends Component {
             <section className="container section">
                 <h4 className="titleENG center">YX-Projects</h4>
 
-            
+                 <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P8 (BLOG Platform): </p>                            
+                            <p className="grey-text">[NodeJS+Express&MongoDB] 2021/02/06 - 2021/02/06</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yx-p8.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yx-p8.herokuapp.com/</a>  
+                        </div>
+                    </div>
+                </div>
+        
                <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
