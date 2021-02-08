@@ -73,11 +73,11 @@ class projectsCN extends Component {
                  <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
-                            <p>YX-P8 (博客平台): </p>                            
-                            <p className="grey-text">[NodeJS+Express&MongoDB] 2021/02/06 - 2021/02/06</p>
+                            <p>YXP8 (博客平台): </p>                            
+                            <p className="grey-text">[NodeJS+Express+JWT&MongoDB] 2021/02/06 - 2021/02/08</p>
                         </div>
                         <div className="col s12 m6 l6">
-                            <a href="https://yx-p8.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yx-p8.herokuapp.com/</a>  
+                            <a href="https://yxp8.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp8.herokuapp.com/</a>  
                         </div>
                     </div>
                 </div>
