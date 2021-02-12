@@ -74,7 +74,7 @@ class projectsCN extends Component {
                 <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
-                            <p>YX-P9 (食谱): </p>
+                            <p>YX-P9 (食谱App): </p>
                             <p className="grey-text">[PWA&Firebase] 2021/02/11 - 2021/02/11</p>
                         </div>
                         <div className="col s12 m6 l6">
