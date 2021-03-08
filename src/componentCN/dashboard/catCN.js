@@ -81,7 +81,7 @@ class catCN extends Component {
                             <p className="YXdetailP">名字：辣条</p>
                             <p className="YXdetailP">性别：男</p>
                             <p className="YXdetailP">出生：2016年10月12日(4岁)，加拿大</p>
-                            <p className="YXdetailP">重量：4.75千克</p>
+                            <p className="YXdetailP">重量：5.1千克</p>
                         </div>
                     </div>
                 </div>
