@@ -80,7 +80,7 @@ class cat extends Component {
                             <p className="YXdetailP">Name: Latiao</p>
                             <p className="YXdetailP">Gender: Male</p>
                             <p className="YXdetailP">Born: October 12, 2016(age 4 years), Canada</p>
-                            <p className="YXdetailP">Weight: 4.75kg</p>
+                            <p className="YXdetailP">Weight: 5.1kg</p>
                         </div>
                     </div>
                 </div>
