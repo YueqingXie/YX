@@ -70,7 +70,18 @@ class projectsCN extends Component {
             <section className="container section">
                 <h4 className="titleENG center">YX-我的项目</h4>
 
-            
+              <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-P10 (共享笔记): </p>
+                            <p className="grey-text">[Django] 2021/03/12 - 2021/03/12</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp10.herokuapp.com/" target="_blank" rel="noopener noreferrer">https://yxp10.herokuapp.com/</a>                      
+                        </div>
+                    </div>
+                </div>
+        
                 <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
