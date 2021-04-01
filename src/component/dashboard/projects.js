@@ -72,6 +72,21 @@ class projects extends Component {
               <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
+                            <p>YX-P11 (D3 Webistes): </p>
+                            <p className="grey-text">[D3&Firebase] 2021/02/11 - 2021/02/11</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yxp11-d3p1.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp11-d3p1.netlify.app/</a>
+                                <br/>
+                                <br/>
+                            <a href="https://yxp11-d3p2.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp11-d3p2.netlify.app/</a>                        
+                        </div>
+                    </div>
+                </div>
+        
+              <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
                             <p>YX-P10 (Shared Notes): </p>
                             <p className="grey-text">[Django] 2021/03/12 - 2021/03/12</p>
                         </div>
