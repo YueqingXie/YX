@@ -74,7 +74,7 @@ class projectsCN extends Component {
                     <div className="row">
                         <div className="col s12 m6 l6">
                             <p>YX-P11 (D3网站): </p>
-                            <p className="grey-text">[D3&Firebase] 2021/02/11 - 2021/02/11</p>
+                            <p className="grey-text">[D3&Firebase] 2021/03/31 - 2021/03/31</p>
                         </div>
                         <div className="col s12 m6 l6">
                             <a href="https://yxp11-d3p1.netlify.app/" target="_blank" rel="noopener noreferrer">https://yxp11-d3p1.netlify.app/</a>
