@@ -71,7 +71,7 @@ class projects extends Component {
                   <div className="YX-Ps">
                     <div className="row">
                         <div className="col s12 m6 l6">
-                            <p>YX-ENJINE (网上订单): </p>
+                            <p>YX-ENJINE (Online Order Form): </p>
                             <p className="grey-text">[Angular11] 2021/04/20 - 2021/04/26</p>
                         </div>
                         <div className="col s12 m6 l6">
