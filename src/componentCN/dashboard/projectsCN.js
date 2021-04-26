@@ -68,6 +68,31 @@ class projectsCN extends Component {
 
   
             <section className="container section">
+                <h4 className="titleENG center">YX-我的面试项目</h4>
+                   <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-ENJINE (Online Order Form): </p>
+                            <p className="grey-text">[Angular11] 2021/04/20 - 2021/04/26</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yx-enjine.netlify.app/" target="_blank" rel="noopener noreferrer">https://yx-enjine.netlify.app/</a>                     
+                        </div>
+                    </div>
+                </div>
+        
+                  <div className="YX-Ps">
+                    <div className="row">
+                        <div className="col s12 m6 l6">
+                            <p>YX-Mensio Mental Health (待办事项清单): </p>
+                            <p className="grey-text">[React&Firebase] 2021/04/14 - 2021/04/14</p>
+                        </div>
+                        <div className="col s12 m6 l6">
+                            <a href="https://yx-mmh.netlify.app/" target="_blank" rel="noopener noreferrer">https://yx-mmh.netlify.app/</a>                      
+                        </div>
+                    </div>
+                </div>
+        
                 <h4 className="titleENG center">YX-我的项目</h4>
             
               <div className="YX-Ps">
