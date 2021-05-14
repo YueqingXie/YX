@@ -250,8 +250,7 @@ class catCN extends Component {
                 </div>
         
         
-        
-                </div>
+
             </section>
 <Footer/>
             </section>
