@@ -249,8 +249,7 @@ class cat extends Component {
                     </div>
                 </div>
         
-        
-                </div>
+       
             </section>
             <footer className="page-footer black darken-3">
                 <div className="container">
