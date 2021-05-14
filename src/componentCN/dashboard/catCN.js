@@ -190,6 +190,62 @@ class catCN extends Component {
                         </div>
                         </div>
                     </div>
+        
+        
+                        <div className="row">
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/13.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/14.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/15.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+        
+                        <div className="row">
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/16.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/17.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/18.jpg" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+        
+        
+        
                 </div>
             </section>
 <Footer/>
