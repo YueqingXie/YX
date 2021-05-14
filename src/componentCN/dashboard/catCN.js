@@ -114,6 +114,7 @@ class catCN extends Component {
                     </div>
                 </div>
 
+        
                 <div className="row">
                     <div className="col s12 m4 l4">
                         <div className="card">
@@ -140,6 +141,7 @@ class catCN extends Component {
                     </div>
                 </div>
 
+        
                 <div className="row">
                     <div className="col s12 m4 l4">
                         <div className="card">
@@ -166,6 +168,7 @@ class catCN extends Component {
                     </div>
                 </div>
 
+        
                 <div className="row">
                     <div className="col s12 m4 l4">
                         <div className="card">
@@ -190,6 +193,7 @@ class catCN extends Component {
                         </div>
                         </div>
                     </div>
+        </div>
         
         
                         <div className="row">
@@ -217,6 +221,7 @@ class catCN extends Component {
                         </div>
                     </div>
                 </div>
+        
         
                         <div className="row">
                     <div className="col s12 m4 l4">
