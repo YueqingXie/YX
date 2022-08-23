@@ -522,7 +522,25 @@ class music extends Component {
             </section>   
 
             <section className="container section" id="flute">
-            
+              <div className="row">
+                <div className="col s12 m6 l3">
+                    <div className="video" id="video65">
+                        <video controls src="../video_music/65_星河叹.mp4" width="200" height="280"></video>
+                    </div>
+                </div>
+
+                <div className="col s12 m6 l3">
+                     
+                </div>
+
+                <div className="col s12 m6 l3">
+             
+                </div>
+
+                <div className="col s12 m6 l3">
+              
+                </div>
+             </div>
             </section>   
             <footer className="page-footer black darken-3">
                 <div className="container">
