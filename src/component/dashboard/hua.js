@@ -33,7 +33,7 @@ class hua extends Component {
                             </div>
                         </div>
 
-        <div className="row">
+        {/* <div className="row">
         <div className="col s12 m6 l3">
             <div className="card">
             <div className="card-image">
@@ -99,7 +99,7 @@ class hua extends Component {
             </div>
             </div>
         </div>
-        </div>
+        </div> */}
             
         </section>   
        
