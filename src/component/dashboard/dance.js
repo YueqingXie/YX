@@ -21,7 +21,7 @@ class dance extends Component {
               <div className="row">
                 <div className="col s12 m6 l3">
                     <div className="video" id="video4">
-                        <video controls src="../video_dance/4.mp4" width="243" height="432"></video>
+                        <video controls src="../video_dance/4-new.mp4" width="243" height="432"></video>
                     </div>
                 </div>
 
