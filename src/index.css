@@ -24,11 +24,9 @@ header{
   background: url(./img/bg.png) no-repeat;
   background-size: cover;
   background-position: center;
-  min-height: 732px;
-
-
-  
+  min-height: 888px;
 }
+
 @media screen and (max-width: 670px){
   header{
     min-height: 500px;
@@ -457,24 +455,6 @@ a {
   font-family: 'Satisfy';
   font-size: 2em;
 }
-.projects{
-  margin: 20px 0;
-}
-.projects a{
-  grid-column: 1/9;
-  display: flex;
-  margin: 20px 0
-}
-.projects a *{
-  margin: 0 20px;
-  max-width: 40%;
-  align-self: center;
-}
-.projects p{
-  color: black;
-  font-family: 'Parisienne';
-  font-size: 1.5em;
-}
 
 
 .interests{
@@ -545,25 +525,7 @@ a {
 /* small tablet styles */
 @media screen and (min-width: 600px){
 
-  .projects{
-    margin-top: 40px;
-  }
-  .projects a{
-    grid-column: span 4;
-    display: block;
-    margin: 20px 0;
-  }
-  .projects a:last-child{
-    grid-column: 3/7;
-  }
-  .projects a *{
-    margin: 10px;
-    max-width: 60%;
-    margin: 10px 20%;
-  }
-  .projects p{
-    text-align: center;
-  }
+
 
 .interests{
     padding: 30px 100px;
@@ -585,20 +547,7 @@ a {
     width: 100%;
   }
 
-  .projects a:nth-child(1){
-    grid-column: 2/4;
-  }
-  .projects a:nth-child(2){
-    grid-column: 4/6;
-    padding-top: 140px;
-  }
-  .projects a:nth-child(3){
-    grid-column: 6/8;
-  }
-  .projects a *{
-    max-width: 80%;
-    margin: 30px 10%;
-  }
+
 
   .interests{
     padding: 30px 20px;
@@ -635,20 +584,7 @@ a {
 /* desktop styles */
 @media screen and (min-width: 1000px){
 
-  .projects a:nth-child(1){
-    grid-column: 1/3;
-  }
-  .projects a:nth-child(2){
-    grid-column: 4/6;
-    padding-top: 140px;
-  }
-  .projects a:nth-child(3){
-    grid-column: 7/9;
-  }
-  .projects a *{
-    max-width: 100%;
-    margin: 30px 0%;
-  }
+
 
 .interests {
     padding: 90px 0;
@@ -703,6 +639,52 @@ a {
     width: 100%;
 } */
 }
+
+/* Base styles (mobile: 1 per row) */
+.projects.grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.projects a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.projects a img {
+  width: 100%;
+  min-width: 160px;
+  max-width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
+.projects p {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+/* Tablet and up: 5 per row */
+@media screen and (min-width: 768px) {
+  .projects.grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+
+  .projects a img {
+    max-width: 140px;
+  }
+
+  /* Stagger 2nd and 4th items */
+  .projects a:nth-child(2),
+  .projects a:nth-child(4) {
+    margin-top: 30px;
+  }
+}
+
 
 .projects a:hover{
   position: relative;
