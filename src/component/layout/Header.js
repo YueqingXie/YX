@@ -18,7 +18,7 @@ const Header = () => {
             <li><a href="/dance">Dance</a></li>
             <li><a href="/music">Music</a></li>
             <li><a href="/calligraphy">Calligraphy</a></li>
-            <li><a href="/procreate">Porcreate</a></li>
+            <li><a href="/procreate">Procreate</a></li>
 
             <li>
               <a href="https://www.instagram.com/Ahri0126" target="_blank" rel="noopener noreferrer" className="btn-floating btn-small transparent">
