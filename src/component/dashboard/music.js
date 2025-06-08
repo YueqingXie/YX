@@ -95,7 +95,7 @@ class music extends Component {
             <div className="row">
                 <div className="col s12 m6 l3">
                     {<div className="video" id="video4">
-                        <video controls src="../guitar/茉莉雨.mp4" width="250" height="350"></video>
+                        <video controls src="../guitar/茉莉雨-new.mp4" width="250" height="350"></video>
                     </div>}
                 </div>
 
