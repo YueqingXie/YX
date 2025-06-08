@@ -37,7 +37,7 @@ const Header = () => {
             <li><a href="/dance" className="sidenavtext">Dance</a></li>
             <li><a href="/music" className="sidenavtext">Music</a></li>
             <li><a href="/calligraphy" className="sidenavtext">Calligraphy</a></li>
-            <li><a href="/porcreate" className="sidenavtext">Procreate</a></li>
+            <li><a href="/procreate" className="sidenavtext">Procreate</a></li>
             <li><a href="/#aboutmenav" className="sidenavtext">About Me</a></li>
           </ul>
         </div>
