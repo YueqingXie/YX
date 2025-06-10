@@ -1968,6 +1968,36 @@ class travel extends Component {
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
+                        <img src="../travelPics/15.JPG" alt="" className="responsive-img materialboxed"/>
+                    </div>
+                    </div>
+                </div>
+                <div className="col s12 m6 l3">
+                    <div className="card">
+                    <div className="card-image">
+                        <img src="../travelPics/112.JPG" alt="" className="responsive-img materialboxed"/>
+                    </div>
+                    </div>
+                </div>
+                <div className="col s12 m6 l3">
+                    <div className="card">
+                    <div className="card-image">
+                        <img src="../travelPics/22.JPG" alt="" className="responsive-img materialboxed"/>
+                    </div>
+                    </div>
+                </div>
+                <div className="col s12 m6 l3">
+                    <div className="card">
+                    <div className="card-image">
+                        <img src="../travelPics/11.JPG" alt="" className="responsive-img materialboxed"/>
+                    </div>
+                    </div>
+                </div>
+            </div>
+            <div className="row">
+                <div className="col s12 m6 l3">
+                    <div className="card">
+                    <div className="card-image">
                         <img src="../travelPics/24.JPG" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
@@ -1982,7 +2012,7 @@ class travel extends Component {
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
-                        <img src="../travelPics/22.JPG" alt="" className="responsive-img materialboxed"/>
+                        <img src="../travelPics/110.JPG" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
                 </div>
@@ -2035,7 +2065,7 @@ class travel extends Component {
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
-                        <img src="../travelPics/15.JPG" alt="" className="responsive-img materialboxed"/>
+                        <img src="../travelPics/109.JPG" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
                 </div>
@@ -2065,7 +2095,7 @@ class travel extends Component {
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
-                        <img src="../travelPics/11.JPG" alt="" className="responsive-img materialboxed"/>
+                        <img src="../travelPics/111.JPG" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
                 </div>
