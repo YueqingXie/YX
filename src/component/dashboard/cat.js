@@ -39,6 +39,58 @@ class cat extends Component {
 
                 <h4 className="titleENG center">Some Pictures...</h4>    
 
+              <div className="row">
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/27.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/26.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/25.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="row">
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/24.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/23.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m4 l4">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../img32/22.PNG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div className="row">
                     <div className="col s12 m4 l4">
                         <div className="card">
