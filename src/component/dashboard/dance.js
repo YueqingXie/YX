@@ -18,31 +18,57 @@ class dance extends Component {
             <section>
 
             <section className="container section">
-              <div className="row">
-                <div className="col s12 m6 l3">
-                    <div className="video" id="video4">
-                        <video controls src="../video_dance/4-new.mp4" width="243" height="432"></video>
+                <div className="row">
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video4">
+                            <video controls src="../video_dance/8.mp4" width="243" height="432"></video>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video3">
+                            <video controls src="../video_dance/7.mp4" width="243" height="432"></video>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video2">
+                            <video controls src="../video_dance/6.mp4" width="243" height="432"></video>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video1">
+                            <video controls src="../video_dance/5-new.mp4" width="243" height="432"></video>
+                        </div>
                     </div>
                 </div>
 
-                <div className="col s12 m6 l3">
-                    <div className="video" id="video3">
-                        <video controls src="../video_dance/3.mp4" width="243" height="432"></video>
+                <div className="row">
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video4">
+                            <video controls src="../video_dance/4.mp4" width="243" height="432"></video>
+                        </div>
                     </div>
-                </div>
 
-                <div className="col s12 m6 l3">
-                    <div className="video" id="video2">
-                        <video controls src="../video_dance/2.mp4" width="243" height="432"></video>
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video3">
+                            <video controls src="../video_dance/3.mp4" width="243" height="432"></video>
+                        </div>
                     </div>
-                </div>
 
-                <div className="col s12 m6 l3">
-                    <div className="video" id="video1">
-                        <video controls src="../video_dance/1.mp4" width="243" height="432"></video>
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video2">
+                            <video controls src="../video_dance/2.mp4" width="243" height="432"></video>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m6 l3">
+                        <div className="video" id="video1">
+                            <video controls src="../video_dance/1.mp4" width="243" height="432"></video>
+                        </div>
                     </div>
                 </div>
-             </div>
             </section>   
 
             </section>
