@@ -80,11 +80,15 @@ class music extends Component {
                 </div>
 
                 <div className="col s12 m6 l3">
-
+                    <div className="video" id="video4">
+                        <video controls src="../guzheng/高山流水.mp4" width="200" height="280"></video>
+                    </div>
                 </div>
 
                 <div className="col s12 m6 l3">
-
+                    <div className="video" id="video5">
+                        <video controls src="../guzheng/梅花三弄.mp4" width="200" height="280"></video>
+                    </div>
                 </div>
             </div>
  
@@ -94,13 +98,13 @@ class music extends Component {
 
             <div className="row">
                 <div className="col s12 m6 l3">
-                    {<div className="video" id="video4">
+                    {<div className="video" id="video6">
                         <video controls src="../guitar/茉莉雨-new.mp4" width="250" height="350"></video>
                     </div>}
                 </div>
 
                 <div className="col s12 m6 l3">
-                    {<div className="video" id="video5">
+                    {<div className="video" id="video7">
                         <video controls src="../guitar/ComingHome.mp4" width="250" height="350"></video>
                     </div>}
                 </div>
@@ -119,7 +123,7 @@ class music extends Component {
             <section className="container section" id="piano">
             <div className="row">
                 <div className="col s12 m6 l3">
-                    <div className="video" id="video6">
+                    <div className="video" id="video8">
                         <video controls src="../piano/想自由.mp4" width="250" height="350"></video>
                     </div>
                 </div>
