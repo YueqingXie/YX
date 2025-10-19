@@ -78,6 +78,40 @@ class YX extends Component {
                     <div className="col s12 m3 l3">
                         <div className="card">
                         <div className="card-image">
+                            <img src="../YX/2.JPG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m3 l3">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../YX/4.JPG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m3 l3">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../YX/3.JPG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+
+                    <div className="col s12 m3 l3">
+                        <div className="card">
+                        <div className="card-image">
+                            <img src="../YX/1.JPG" alt="" className="responsive-img materialboxed"/>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div className="row">
+                    <div className="col s12 m3 l3">
+                        <div className="card">
+                        <div className="card-image">
                             <img src="../YX/12.JPG" alt="" className="responsive-img materialboxed"/>
                         </div>
                         </div>
@@ -137,40 +171,6 @@ class YX extends Component {
                         <div className="card">
                         <div className="card-image">
                             <img src="../YX/5.JPG" alt="" className="responsive-img materialboxed"/>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div className="row">
-                    <div className="col s12 m3 l3">
-                        <div className="card">
-                        <div className="card-image">
-                            <img src="../YX/4.JPG" alt="" className="responsive-img materialboxed"/>
-                        </div>
-                        </div>
-                    </div>
-
-                    <div className="col s12 m3 l3">
-                        <div className="card">
-                        <div className="card-image">
-                            <img src="../YX/3.JPG" alt="" className="responsive-img materialboxed"/>
-                        </div>
-                        </div>
-                    </div>
-
-                    <div className="col s12 m3 l3">
-                        <div className="card">
-                        <div className="card-image">
-                            <img src="../YX/2.JPG" alt="" className="responsive-img materialboxed"/>
-                        </div>
-                        </div>
-                    </div>
-
-                    <div className="col s12 m3 l3">
-                        <div className="card">
-                        <div className="card-image">
-                            <img src="../YX/1.JPG" alt="" className="responsive-img materialboxed"/>
                         </div>
                         </div>
                     </div>
