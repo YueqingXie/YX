@@ -14,6 +14,13 @@ class procreate extends Component {
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
+                        <img src="../procreate/9.png" alt="" className="responsive-img materialboxed"/>
+                    </div>
+                    </div>
+                </div>
+                <div className="col s12 m6 l3">
+                    <div className="card">
+                    <div className="card-image">
                         <img src="../procreate/8.png" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
@@ -32,6 +39,8 @@ class procreate extends Component {
                     </div>
                     </div>
                 </div>
+            </div>
+            <div className="row">
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
@@ -39,8 +48,6 @@ class procreate extends Component {
                     </div>
                     </div>
                 </div>
-            </div>
-            <div className="row">
                 <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
@@ -62,13 +69,13 @@ class procreate extends Component {
                     </div>
                     </div>
                 </div>
-                <div className="col s12 m6 l3">
+                {/* <div className="col s12 m6 l3">
                     <div className="card">
                     <div className="card-image">
                         <img src="../procreate/1.png" alt="" className="responsive-img materialboxed"/>
                     </div>
                     </div>
-                </div>
+                </div> */}
             </div>
             </section> 
         
