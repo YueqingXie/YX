@@ -124,12 +124,14 @@ class music extends Component {
             <div className="row">
                 <div className="col s12 m6 l3">
                     <div className="video" id="video8">
-                        <video controls src="../piano/想自由.mp4" width="250" height="350"></video>
+                        <video controls src="../piano/梦中的婚礼.mp4" width="250" height="350"></video>
                     </div>
                 </div>
 
                 <div className="col s12 m6 l3">
-
+                    <div className="video" id="video9">
+                        <video controls src="../piano/想自由.mp4" width="250" height="350"></video>
+                    </div>
                 </div>
 
                 <div className="col s12 m6 l3">
