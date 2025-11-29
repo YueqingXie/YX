@@ -145,6 +145,29 @@ class music extends Component {
   
             </section>   
 
+            <section className="container section" id="kalimba">
+              <div className="row">
+                <div className="col s12 m6 l3">
+                    <div className="video" id="video10">
+                        <video controls src="../kalimba/大鱼.mp4" width="250" height="350"></video>
+                    </div>
+                </div>
+
+                <div className="col s12 m6 l3">
+                     
+                </div>
+
+                <div className="col s12 m6 l3">
+             
+                </div>
+
+                <div className="col s12 m6 l3">
+              
+                </div>
+             </div>
+            </section>   
+
+
             </section>
         )
     }
