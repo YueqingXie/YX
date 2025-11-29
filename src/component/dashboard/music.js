@@ -20,27 +20,24 @@ class music extends Component {
             <section className="container section" id="tabs">
             <div className="scrollspy" id="top">
             <div className="row">
-                {/* <div className="col s12 l4">
-                <h2 className="indigo-text text-darken-4">Travel</h2>
-                </div> */}
                 <div className="col s12 l8 offset-l2">
-                <ul className="tabs">
-                    <li className="tab col s3">
-                        <a href="#one-person-ensemble" className="active black-text">One-Person Ensemble</a>
-                    </li>
-                    <li className="tab col s3">
-                        <a href="#guzheng" className="black-text">GuZheng</a>
-                    </li>
-                    <li className="tab col s3">
-                        <a href="#guitar" className="black-text">Guitar</a>
-                    </li>
-                    <li className="tab col s3">
-                        <a href="#piano" className="black-text">Piano</a>
-                    </li>
-                    <li className="tab col s3">
-                        <a href="#kalimba" className="black-text">Kalimba</a>
-                    </li>
-                </ul>
+                    <ul className="tabs">
+                        <li className="tab col s2">
+                            <a href="#one-person-ensemble" className="active black-text">One-Person Ensemble</a>
+                        </li>
+                        <li className="tab col s2">
+                            <a href="#guzheng" className="black-text">GuZheng</a>
+                        </li>
+                        <li className="tab col s2">
+                            <a href="#guitar" className="black-text">Guitar</a>
+                        </li>
+                        <li className="tab col s2">
+                            <a href="#piano" className="black-text">Piano</a>
+                        </li>
+                        <li className="tab col s2">
+                            <a href="#kalimba" className="black-text">Kalimba</a>
+                        </li>
+                    </ul>
                 </div>
             </div>
             </div>
