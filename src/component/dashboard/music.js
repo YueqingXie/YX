@@ -22,10 +22,10 @@ class music extends Component {
             <div className="row">
                 <div className="col s12 l8 offset-l2">
                     <ul className="tabs">
-                        <li className="tab col s2">
+                        <li className="tab col s3">
                             <a href="#one-person-ensemble" className="active black-text">One-Person Ensemble</a>
                         </li>
-                        <li className="tab col s2">
+                        <li className="tab col s3">
                             <a href="#guzheng" className="black-text">GuZheng</a>
                         </li>
                         <li className="tab col s2">
