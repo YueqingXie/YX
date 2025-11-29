@@ -37,6 +37,9 @@ class music extends Component {
                     <li className="tab col s3">
                         <a href="#piano" className="black-text">Piano</a>
                     </li>
+                    <li className="tab col s3">
+                        <a href="#kalimba" className="black-text">Kalimba</a>
+                    </li>
                 </ul>
                 </div>
             </div>
