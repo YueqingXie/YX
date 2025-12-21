@@ -116,7 +116,9 @@ class music extends Component {
                 </div>
 
                 <div className="col s12 m6 l3">
-
+                    {<div className="video" id="video9">
+                        <video controls src="../guitar/泪桥.mp4" width="250" height="350"></video>
+                    </div>}
                 </div>
             </div>
 
@@ -125,13 +127,13 @@ class music extends Component {
             <section className="container section" id="piano">
             <div className="row">
                 <div className="col s12 m6 l3">
-                    <div className="video" id="video">
+                    <div className="video" id="video10">
                         <video controls src="../piano/梦中的婚礼.mp4" width="250" height="350"></video>
                     </div>
                 </div>
 
                 <div className="col s12 m6 l3">
-                    <div className="video" id="video10">
+                    <div className="video" id="video11">
                         <video controls src="../piano/想自由.mp4" width="250" height="350"></video>
                     </div>
                 </div>
@@ -150,7 +152,7 @@ class music extends Component {
             <section className="container section" id="kalimba">
               <div className="row">
                 <div className="col s12 m6 l3">
-                    <div className="video" id="video11">
+                    <div className="video" id="video12">
                         <video controls src="../kalimba/大鱼.mp4" width="250" height="350"></video>
                     </div>
                 </div>
