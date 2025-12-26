@@ -32,7 +32,7 @@ class YX extends Component {
                             <p className="YXdetailP"><strong>Birthday: </strong>January 26</p>
                             <p className="YXdetailP"><strong>MBTI: </strong>INTJ-A</p>
                             <p className="YXdetailP"><strong>Height: </strong>168cm</p>
-                            <p className="YXdetailP"><strong>Weight: </strong>48kg</p>
+                            <p className="YXdetailP"><strong>Weight: </strong>50kg</p>
                         </div>
                     </div>
                 </div>
