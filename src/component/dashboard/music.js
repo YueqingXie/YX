@@ -22,10 +22,10 @@ class music extends Component {
             <div className="row">
                 <div className="col s12 l8 offset-l2">
                     <ul className="tabs">
-                        <li className="tab col s3">
+                        <li className="tab col s2">
                             <a href="#one-person-ensemble" className="active black-text">One-Person Ensemble</a>
                         </li>
-                        <li className="tab col s3">
+                        <li className="tab col s2">
                             <a href="#guzheng" className="black-text">GuZheng</a>
                         </li>
                         <li className="tab col s2">
@@ -36,6 +36,9 @@ class music extends Component {
                         </li>
                         <li className="tab col s2">
                             <a href="#kalimba" className="black-text">Kalimba</a>
+                        </li>
+                        <li className="tab col s2">
+                            <a href="#guitarlele" className="black-text">Guitarlele</a>
                         </li>
                     </ul>
                 </div>
@@ -171,6 +174,27 @@ class music extends Component {
              </div>
             </section>   
 
+            <section className="container section" id="guitarlele">
+              <div className="row">
+                <div className="col s12 m6 l3">
+                    <div className="video" id="video13">
+                        <video controls src="../guitarlele/无羁.mp4" width="250" height="350"></video>
+                    </div>
+                </div>
+
+                <div className="col s12 m6 l3">
+                     
+                </div>
+
+                <div className="col s12 m6 l3">
+             
+                </div>
+
+                <div className="col s12 m6 l3">
+              
+                </div>
+             </div>
+            </section>  
 
             </section>
         )
