@@ -22,24 +22,16 @@ class music extends Component {
             <div className="row">
                 <div className="col s12 l8 offset-l2">
                     <ul className="tabs">
-                        <li className="tab col s2">
-                            <a href="#one-person-ensemble" className="active black-text">One-Person Ensemble</a>
+                        <li className="tab">
+                            <a href="#one-person-ensemble" className="active black-text">
+                                One-Person Ensemble
+                            </a>
                         </li>
-                        <li className="tab col s2">
-                            <a href="#guzheng" className="black-text">GuZheng</a>
-                        </li>
-                        <li className="tab col s2">
-                            <a href="#guitar" className="black-text">Guitar</a>
-                        </li>
-                        <li className="tab col s2">
-                            <a href="#piano" className="black-text">Piano</a>
-                        </li>
-                        <li className="tab col s2">
-                            <a href="#kalimba" className="black-text">Kalimba</a>
-                        </li>
-                        <li className="tab col s2">
-                            <a href="#guitarlele" className="black-text">Guitarlele</a>
-                        </li>
+                        <li className="tab"><a href="#guzheng" className="black-text">GuZheng</a></li>
+                        <li className="tab"><a href="#guitar" className="black-text">Guitar</a></li>
+                        <li className="tab"><a href="#piano" className="black-text">Piano</a></li>
+                        <li className="tab"><a href="#kalimba" className="black-text">Kalimba</a></li>
+                        <li className="tab"><a href="#guitarlele" className="black-text">Guitarlele</a></li>
                     </ul>
                 </div>
             </div>
